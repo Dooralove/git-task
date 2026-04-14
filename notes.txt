@@ -1,3 +1,7 @@
 Заметки по задачам:
 1. Задача 3 — работа с ветками, revert, cherry-pick
 2. Задача 4 — настройка Git Hooks (post-commit email)
+
+Дополнение из ветки develop:
+- Изучены команды git branch, git checkout, git merge
+- Добавлена информация о workflow проекта
