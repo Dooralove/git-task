@@ -3,3 +3,4 @@
 - Основная ветка: main
 - Ветка разработки: develop
 - Ветка продакшена: prod
+- Тестовый коммит: проверка работы post-commit hook (email notification)
